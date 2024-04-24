@@ -1,0 +1,32 @@
+.blockFormInitials {
+	background-color: #ffffff;
+	width: 500px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 30px;
+	padding: 50px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.2);
+}
+.blockFormInitials label {
+	font-weight: bold;
+	font-size: 25px;
+}
+.blockFormInitials input {
+	width: 100%;
+	height: 20px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.blockFormInitials button {
+	width: 100%;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 3px;
+	color: white;
+	background-color: #001275;
+	border: 0px;
+}
+.blockFormInitials button:hover {
+	background-color: #0084ff;
+}

@@ -1,0 +1,32 @@
+.box {
+	width: 500px;
+	height: 250px;
+	z-index: 10;
+	position: fixed;
+	border-radius: 15px;
+	background-color: #fff;
+	box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.2);
+}
+.box p {
+	text-align: center;
+}
+.box button {
+	border-radius: 0px 0px 15px 15px;
+	margin-top: 49px;
+	margin-left: 0px;
+}
+.boxInBox {
+	width: 500px;
+	height: 75px;
+	margin-top: -20px;
+	border-radius: 15px 15px 0px 0px;
+	background-color: #001275;
+	margin-bottom: 50px;
+}
+.boxInBox p {
+	text-align: center;
+	line-height: 75px;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+}

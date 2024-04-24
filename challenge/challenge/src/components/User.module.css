@@ -1,0 +1,17 @@
+.elemBlockUsers {
+	width: 900px;
+	height: 40px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+	background-color: rgb(255, 255, 255);
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.elemBlockUsers p {
+	margin: 0px;
+	line-height: 40px;
+	font-size: 15px;
+	font-weight: 600;
+}
